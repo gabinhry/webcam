@@ -1,0 +1,1 @@
+[Official documentation](https://github.com/mozmorris/react-webcam)
