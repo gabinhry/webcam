@@ -46,4 +46,6 @@
 
 ## Features included in the module
 
+[Full documentation HERE.](https://fast-modular-project.com/modules/webcam-with-react)
+
 This module will allow you to use the webcam of the user in your React.js application.
